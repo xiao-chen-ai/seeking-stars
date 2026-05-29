@@ -1,5 +1,3 @@
-<img width="2762" height="1762" alt="image" src="https://github.com/user-attachments/assets/39e66041-df3e-4a76-8568-4664330c97a8" /># 觅星小臣 — AI 智能求职助手
-
 一站式求职效率工具，让求职更高效、更智能。
 
 ## 下载安装（macOS 桌面版）
@@ -51,7 +49,7 @@
 
 3. 打开 [Boss 直聘](https://www.zhipin.com/) 沟通页面
 4. 脚本会自动在页面添加操作按钮，点击即可一键采集
-![Uploading image.png…]()
+<img width="2762" height="1762" alt="image" src="https://github.com/user-attachments/assets/39e66041-df3e-4a76-8568-4664330c97a8" /># 觅星小臣 — AI 智能求职助手
 > 采集的职位数据会自动同步到桌面版的「投递追踪」页面，无需手动输入。
 <img width="3450" height="1802" alt="8ff80836-c901-4dc2-98d7-34a62f6ac887" src="https://github.com/user-attachments/assets/5fba00ff-b98e-4473-9b51-6bcef511513c" />
 <img width="3456" height="1856" alt="6aa2e182-7b97-456c-a436-3da89083f141" src="https://github.com/user-attachments/assets/20acc43b-34d6-427f-bb08-5bb24f28c0a7" />
