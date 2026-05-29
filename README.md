@@ -21,12 +21,12 @@
 
 ## BOSS 直聘职位采集 — 使用教程
 
-### 1. 安装脚本管理器
+### 1. 安装脚本猫
 
-首先在浏览器安装 **Tampermonkey（油猴）** 插件：
+首先在浏览器安装 **脚本猫** 插件：
 
-- [Chrome / Edge](https://www.tampermonkey.net/)
-- 安装后在地址栏旁会出现 🐒 图标
+- [Chrome / Edge](https://docs.scriptcat.org/docs/use/install/)
+- 安装后在地址栏旁会出现 🐱 图标
 
 ### 2. 安装采集脚本
 
