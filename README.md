@@ -74,7 +74,7 @@
 ### 3. 一键采集
 
 1. 确保 **觅星小臣桌面版已启动**
-2. 打开 [BOSS 直聘](https://www.zhipin.com/) 沟通页面（`zhipin.com/web/geek/chat`）
+2. 打开 [BOSS 直聘](https://www.zhipin.com/) 更多详情页面
 3. 脚本自动在页面添加操作按钮，点击即可一键采集
 
 <img width="2762" height="1762" alt="BOSS采集按钮" src="https://github.com/user-attachments/assets/39e66041-df3e-4a76-8568-4664330c97a8" />
