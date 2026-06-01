@@ -62,7 +62,6 @@
 
 在浏览器中安装 **脚本猫**（Tampermonkey 兼容的用户脚本管理器）：
 
-👉 [Chrome / Edge 安装教程](https://docs.scriptcat.org/docs/use/install/)
 
 安装后在地址栏旁会出现 🐱 图标。
 
