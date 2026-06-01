@@ -1,5 +1,7 @@
 # 觅星小臣 — AI 智能求职助手
 **只能使用硅基流动！！！！因为他免费**
+
+
 **一站式求职效率工具，让求职更高效、更智能。**
 
 👉 **[下载最新版](https://github.com/xiao-chen-ai/seeking-stars/releases)**
