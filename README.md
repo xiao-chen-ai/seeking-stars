@@ -9,7 +9,8 @@
 ---
 
 ## 下载安装
-
+视频教程
+https://www.bilibili.com/video/BV11UG26uEKr/?spm_id_from=333.1387.homepage.video_card.click&vd_source=0cafc2845e56459f05269e039b5b1d90
 ### macOS
 下载 `觅星小臣-macOS.dmg`，双击挂载后拖入 **Applications** 即可。
 
