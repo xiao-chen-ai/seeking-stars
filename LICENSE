@@ -1,0 +1,73 @@
+MIT License (Non-Commercial)
+
+Copyright (c) 2026 觅星团队 (xiao-chen-ai)
+
+============================================================
+                      非商业使用许可证
+                      Non-Commercial License
+============================================================
+
+允许任何人免费获取本软件及相关文档文件（以下简称"软件"），
+包括不受限制地使用、复制、修改、合并、发布、分发副本的权利，
+但须满足以下条件：
+
+1. 【非商业用途】本软件仅限个人和非商业用途使用。未经版权
+   持有者的明确书面许可，任何人不得将本软件（包含全部或部分
+   代码、修改版本、衍生作品）用于任何商业目的。
+
+2. 【商业用途定义】以下行为视为商业用途：
+   a) 将本软件或其衍生作品作为付费产品或服务的一部分出售、
+      出租、许可或提供
+   b) 将本软件或其衍生作品用于营收性质的服务（包括但不限于
+      SaaS、PaaS、API 服务等）
+   c) 将本软件或其衍生作品集成到以营利为目的的产品中
+   d) 向第三方收取与本软件相关的任何费用
+   e) 在商业公司或组织中部署使用（包括内网部署）
+
+3. 【版权声明】上述版权声明和本许可声明应包含在本软件的
+   所有副本或重要部分中。
+
+4. 【免责声明】本软件按"原样"提供，不作任何明示或暗示的
+   保证，包括但不限于适销性、特定用途适用性和非侵权性的保证。
+   在任何情况下，作者或版权持有者均不对因本软件或使用本软件
+   产生的任何索赔、损害或其他责任承担责任。
+
+============================================================
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, and distribute copies of the
+Software, subject to the following conditions:
+
+1. 【Non-Commercial Use Only】The Software is for personal
+   and non-commercial use only. No one may use the Software
+   (including all or part of the code, modified versions,
+   or derivative works) for any commercial purpose without
+   explicit written permission from the copyright holder.
+
+2. 【Definition of Commercial Use】The following shall be
+   considered commercial use:
+   a) Selling, renting, licensing, or providing the Software
+      or its derivative works as part of a paid product or service
+   b) Using the Software or its derivative works for
+      revenue-generating services (including but not limited
+      to SaaS, PaaS, API services, etc.)
+   c) Integrating the Software or its derivative works into
+      profit-oriented products
+   d) Charging any fees related to the Software to third parties
+   e) Deploying and using within a commercial company or
+      organization (including internal network deployment)
+
+3. 【Copyright Notice】The above copyright notice and this
+   license notice shall be included in all copies or
+   substantial portions of the Software.
+
+4. 【Disclaimer】THE SOFTWARE IS PROVIDED "AS IS", WITHOUT
+   WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+   NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+   SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF
+   THE SOFTWARE.
