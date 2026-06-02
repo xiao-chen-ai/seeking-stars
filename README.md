@@ -63,6 +63,19 @@ https://www.bilibili.com/video/BV11UG26uEKr/?spm_id_from=333.1387.homepage.video
 ### 1. 安装脚本猫插件
 
 在浏览器中安装 **脚本猫**（Tampermonkey 兼容的用户脚本管理器）：
+点击获取
+<img width="644" height="752" alt="image" src="https://github.com/user-attachments/assets/07fd949e-b579-42af-9f1d-e6668112adad" />
+搜索脚本猫并安装
+<img width="3418" height="1872" alt="image" src="https://github.com/user-attachments/assets/dfac03a0-89b5-4329-b103-7b9abb34ae73" />
+安装完以后点击管理
+<img width="640" height="692" alt="image" src="https://github.com/user-attachments/assets/6296a5f5-f1ad-4ff5-a5ab-6c9bf56d80a7" />
+打开开发者
+<img width="690" height="950" alt="image" src="https://github.com/user-attachments/assets/239c13a3-50b0-4669-9451-7bf5cb4ae400" />
+点击详细信息
+<img width="1684" height="240" alt="image" src="https://github.com/user-attachments/assets/d20963bd-20de-40b6-a543-4f6ef980766e" />
+全🪝上
+<img width="1796" height="1222" alt="image" src="https://github.com/user-attachments/assets/84ea6834-51e0-4854-bb4b-e4f48ba753ec" />
+
 
 
 安装后在地址栏旁会出现 🐱 图标。
